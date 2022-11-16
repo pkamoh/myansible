@@ -1,3 +1,2 @@
 [webservers]
-172.31.18.128 ansible_user=ec2-user
-
+target1 ansible_host=172.31.18.128  ansible_ssh_user=ec2-user

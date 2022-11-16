@@ -1,2 +1,2 @@
 [webservers]
-target1 ansible_host=172.31.18.128  ansible_ssh_user=ec2-user
+172.31.18.128  ansible_ssh_user=ec2-user aniansible_ssh_pass=anishi$$23

@@ -1,2 +1,4 @@
 [webservers]
-172.31.18.128  ansible_ssh_user=ec2-user aniansible_ssh_pass=anishi$$23
+172.31.18.128  ansible_ssh_user=ec2-user ansible_ssh_pass=anishi$$23
+//ansible all -m ping --ask-pass --ask-sudo-pass
+//172.31.18.128 ansible_user=ec2-user
